@@ -7,8 +7,6 @@ __pycache__/
 env/
 venv/
 ENV/
-*.pkl
-*.csv
 
 # Node
 node_modules/
